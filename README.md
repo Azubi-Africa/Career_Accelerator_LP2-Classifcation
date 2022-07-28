@@ -27,6 +27,7 @@ The data for this project is in a csv format. The following describes the column
 #### TotalCharges – The total amount charged to the customer
 #### Churn – Whether the customer churned or not (Yes or No)
 
+
 ## Instructions
 Your task is to understand the data and prepare it for model building. Your analysis or methods should incorporate the following steps.
 1.	Data Processing - Importing the relevant libraries and modules, Cleaning of Data, Check data types, Encoding Data labels etc.
