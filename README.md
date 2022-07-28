@@ -33,7 +33,7 @@ Your task is to understand the data and prepare it for model building. Your anal
 1.	Data Processing - Importing the relevant libraries and modules, Cleaning of Data, Check data types, Encoding Data labels etc.
 
 2.	Data Evaluation – Perform bivariate and multivariate analysis, EDA
-See attached some useful resources [ Exploratory Data Analysis: Univariate, Bivariate, and Multivariate Analysis , Univariate, Bivariate and Multivariate Analysis , Exploratory Data Analysis (EDA) Using Python]
+See attached some useful resources [Exploratory Data Analysis: Univariate, Bivariate, and Multivariate Analysis](https://www.enjoyalgorithms.com/blog/univariate-bivariate-multivariate-analysis) , [Univariate, Bivariate and Multivariate Analysis](https://youtu.be/w_Tm-H-emRo) , [Exploratory Data Analysis (EDA) Using Python](https://youtu.be/-o3AxdVcUtQ)
 
 3.	Build & Select Model – Train Model on dataset and select the best performing model.
 4.	Evaluate your chosen Model.
