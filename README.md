@@ -112,10 +112,10 @@ Hypothesis & Data Processing:
     Import all relevant libraries and conduct all checks
     to make the data ready for future Analysis.
 
--   **Good:** Imported some libraries and implemented few steps to check
+-   **Good:** Stated hypothesis and implemented few steps to check
     the quality of data.
 
--   **Fair:** Didn't perform adequate steps in preprocessing the data.
+-   **Fair:** Didn't perform adequate steps in preprocessing the data and also ignored hypothesis.
 
 **NB:** Quality checks should involve checking data types,
 missing values, and dealing with class imbalance.
