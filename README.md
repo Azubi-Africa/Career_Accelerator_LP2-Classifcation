@@ -77,7 +77,7 @@ mailed check, Bank transfer(automatic), Credit card(automatic))
 Your task is to understand the data and prepare it for model building.
 Your analysis or methods should incorporate the following steps.
 
-1.  Data Processing - Importing the relevant libraries and modules,
+1.  Hypothesis formation and Data Processing - Importing the relevant libraries and modules,
     Cleaning of Data, Check data types, Encoding Data labels etc.
 
 2.  Data Evaluation -- Perform bivariate and multivariate analysis, EDA
@@ -106,12 +106,13 @@ suitable blogging site.
 
 ## Rubrics
 
-Data Processing:
+Hypothesis & Data Processing:
 
--   **Excellent:** Import all relevant libraries and conduct all checks
+-   **Excellent:** Stated hypothesis and asked relevant questions.
+    Import all relevant libraries and conduct all checks
     to make the data ready for future Analysis.
 
--   **Good:** Import some libraries and implemented few steps to check
+-   **Good:** Imported some libraries and implemented few steps to check
     the quality of data.
 
 -   **Fair:** Didn't perform adequate steps in preprocessing the data.
@@ -122,10 +123,10 @@ missing values, and dealing with class imbalance.
 Data Evaluation:
 
 -   **Excellent:** Performed more than 5 bivariate and multivariate
-    analysis coupled with graphs.
+    analysis coupled with graphs to answer questions and hypothesis formed.
 
 -   **Good:** Performed few bivariate and multivariate analysis coupled
-    with graphs.
+    with graphs to answer some questions and hypothesis.
 
 -   **Fair:** Performed only 1 or 2 bivariate & multivariate analysis
     but omitted key visuals like the correlation matrix.
